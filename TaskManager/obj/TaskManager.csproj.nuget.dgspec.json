@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mnemosyne\\Desktop\\programming\\TaskManager\\TaskManager\\TaskManager.csproj": {}
+    "C:\\Users\\mnemosyne\\Desktop\\programming\\TaskManager\\taskmanager\\TaskManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mnemosyne\\Desktop\\programming\\TaskManager\\TaskManager\\TaskManager.csproj": {
+    "C:\\Users\\mnemosyne\\Desktop\\programming\\TaskManager\\taskmanager\\TaskManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mnemosyne\\Desktop\\programming\\TaskManager\\TaskManager\\TaskManager.csproj",
+        "projectUniqueName": "C:\\Users\\mnemosyne\\Desktop\\programming\\TaskManager\\taskmanager\\TaskManager.csproj",
         "projectName": "TaskManager",
-        "projectPath": "C:\\Users\\mnemosyne\\Desktop\\programming\\TaskManager\\TaskManager\\TaskManager.csproj",
+        "projectPath": "C:\\Users\\mnemosyne\\Desktop\\programming\\TaskManager\\taskmanager\\TaskManager.csproj",
         "packagesPath": "C:\\Users\\mnemosyne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mnemosyne\\Desktop\\programming\\TaskManager\\TaskManager\\obj\\",
+        "outputPath": "C:\\Users\\mnemosyne\\Desktop\\programming\\TaskManager\\taskmanager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mnemosyne\\AppData\\Roaming\\NuGet\\NuGet.Config"
